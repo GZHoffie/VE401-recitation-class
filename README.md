@@ -1,3 +1,5 @@
+![ji-logo](https://www.ji.sjtu.edu.cn/wp-content/uploads/2020/04/umji-logo-new2.png)
+
 # VE401 Probabilistic Methods in Engineering - Recitation Classes
 
 This repository contains recitation class materials for UM-SJTU Joint Institute course VE401, *Probabilistic Methods in Engineering*, taught by Dr. Horst Hohberger. It aims to visualize and emphasize some key concept in class and illustrate with simple examples using Wolfram Mathematica, a powerful tool.
